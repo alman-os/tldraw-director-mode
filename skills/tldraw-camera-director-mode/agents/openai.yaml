@@ -1,0 +1,4 @@
+interface:
+  display_name: "tldraw Camera Director Mode"
+  short_description: "Direct cinematic camera tours on tldraw boards"
+  default_prompt: "Use $tldraw-camera-director-mode to turn this tldraw board into a coherent narrated camera tour."
