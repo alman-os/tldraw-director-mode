@@ -1,5 +1,7 @@
 # tldraw Camera Director Mode
 
+# ![sample-image](tldraw-director-mode-screenshot-sample.png)
+
 An unofficial macOS patch for **tldraw offline** that turns the infinite canvas into a document-native camera path for narrated explainers, product-release walkthroughs, and recorded presentations.
 
 Instead of saving hidden camera bookmarks, Director Mode creates editable shot rectangles on the canvas:
@@ -14,6 +16,8 @@ The frame itself is the camera state. Shot geometry, name, and order travel insi
 
 > [!IMPORTANT]
 > This is an unofficial local patch. It is not affiliated with or endorsed by tldraw. Supply your own copy of the application and review the patch before applying it.
+> Use the frame object to establish a new scene, remember to use shift shortcut to make everything proportional.
+> Also there is an additional patch where the minimum transparency (10%) has been overriden to (0%) so that it would truly be transparent when presenting.
 
 ## Status
 
